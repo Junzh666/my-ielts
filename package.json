@@ -4,6 +4,7 @@
   "scripts": {
     "build": "vite build",
     "dev": "vite --port 3333 --open",
+    "gen:vocab": "python3 ./src/pages/vocabulary/parser.py",
     "lint": "eslint .",
     "typecheck": "vue-tsc --noEmit",
     "preview": "vite preview",

@@ -4,64 +4,64 @@ atmosphere|n.|大气层；氛围|The approaching examination created a tense atm
 hydrosphere|n.|水圈；大气中的水汽|All the water in the earth's surface is included in the hydrosphere
 lithosphere|n.|岩石圈|The lithosphere and the hydrosphere together form the earth's surface
 ---
-oxygen|n.|氧气
-oxide|n.|氧化物
-carbon dioxide|n.|二氧化碳
-hydrogen|n.|氢气
+oxygen|n.|氧气|Hydrogen and Oxygen are gases.
+oxide|n.|氧化物|Oxide is a part of our daily life.
+carbon dioxide|n.|二氧化碳|Soft drinks usually contain carbon dioxide.
+hydrogen|n.|氢气|Two parts hydrogen and one part oxygen, you'll get water every time.
 ---
-core|n.|中心；核心；地核
+core|n.|中心；核心；地核|He is core of the working group.
 crust|n.|地壳；外壳|The crust on the snow was thick enough for us to walk on it
 mantle|n./v.|地幔；斗篷；披风；覆盖|Parents often use mantles for their babies to keep warm
 ---
 longitude|n.|经度
 latitude|n.|维度
-horizon|n.|地平线；[~s]眼界；见识||horizontal adj. 水平的。broaden sb.'s horizons 开阔眼界
-altitude|n.|海拔；高度
+horizon|n.|地平线；眼界；见识|I could see the ship on the horizon.|horizontal adj. 水平的。broaden sb.'s horizons 开阔眼界, [反]vertical adj. 垂直的
+altitude|n.|海拔；高度|We are currently flying at an altitude of 10,000 metres|at an altitude of 在...高度
 ---
 disaster|n.|灾难|There was a great flood disaster in East China|a disaster film/movie 灾难片
-mishap|n.|小灾难|A mishap prevented him from attending the routine company meeting
-catastrophic|adj.|灾难性的|If the forecast had been wrong, the consequences could have been catastrophic
+mishap|n.|小灾难|A mishap prevented him from attending the routine company meeting.
+catastrophic|adj.|灾难性的|If the forecast had been wrong, the consequences could have been catastrophic.
 calamity|n.|灾难；不幸的事|A hurricane would be a calamity for this low-lying coastal region|cause a calamity 酿成灾祸
 ---
-endanger|v.|使遭受危险；危及|If you are work hard without reset, you will endanger your health|endangered adj. 濒临灭绝
+endanger|v.|使遭受危险；危及|If you are work hard without rest, you will endanger your health|endangered adj. 濒临灭绝
 jeopardise/jeopardize|v.|危害；危及|If you are rude to the boss, your chances of success may be jeopardised|jeopardise sb.'s life 危及某人生命
 destructive|adj.|破坏性的；有害的|Jealousy is an extremely destructive emotion
 ---
 El Nino|n.|厄尔尼诺现象
-greenhouse|n.|温室；暖房
+greenhouse|n.|温室；暖房|The flowers are grown in the greenhouse
 phenomenon|n.|现象|Snow is an almost unknown phenomenon in Egypt|复数形式：phenomena；a natural phenomenon 自然现象；a social phenomenon 社会现象
 ---
-pebble|n.|鹅卵石
-magnet|n.|磁铁；吸铁石|He picked all the pins up with a magnet|magnetic adj./词的，有磁性的；有吸引力的
-ore|n.|矿石；矿
-mineral|n.|矿物；矿物质；矿场
+pebble|n.|鹅卵石|The boy put his hand into the money bag and drew out a pebble.
+magnet|n.|磁铁；吸铁石|He picked all the pins up with a magnet|magnetic adj./磁的，有磁性的；有吸引力的
+ore|n.|矿石；矿|This mountain area is rich in iron ore.
+mineral|n.|矿物；矿物质；矿场|China is rich in mineral resources.
 ---
-marble|n.|大理石
-quartz|n.|石英
-granite|n.|花岗岩||bit on granite 白费力气；徒劳无功
+marble|n.|大理石|They used marble to build the steps.
+quartz|n.|石英|Have you bought the quartz clock?
+granite|n.|花岗岩|His grave is made of granite.|bit on granite 白费力气；徒劳无功
 ---
 gust|n.|一整狂风；（情感的）迸发|A gust of wind blew the leaves off the trees
-breeze|n.|微分；和风
-monsoon|n.|季风；雨季
-gale|n.|大风
+breeze|n.|微分；和风|We are enjoying the cool breeze that comes from the lake.
+monsoon|n.|季风；雨季|The monsoon brings rain to us.
+gale|n.|大风|We got our roof blown off in a gale last night.
 ---
-hurricane|n.|飓风；暴风
-tornado|n.|龙卷风
-typhoon|n.|台风
+hurricane|n.|飓风；暴风|The hurricane flung their motorboat upon the rocks.
+tornado|n.|龙卷风|When a tornado touches the ground, it does a lot of damage.
+typhoon|n.|台风|The typhoon is gathering strength.
 ---
-volcano|n.|火山
-erupt|v.|爆发；喷发；（斑疹等）突然出现
-magma|n.|岩浆
-thermodynamic|adj.|热力的；热力学的
+volcano|n.|火山|The volcano erupted and two towns were buried under metres of ash, mud and bits of molten rock.
+erupt|v.|爆发；喷发；（斑疹等）突然出现|Hot lava erupted from the crust.
+magma|n.|岩浆|Some types of minerals are made when magma cools and solidifies.
+thermodynamic|adj.|热力的；热力学的|His theory violates current thermodynamic laws.|principle n. 原理,定律
 ---
-smog|n.|烟雾；雾霾
+smog|n.|烟雾；雾霾|The smog was so bad that schoolchildren were advised to stay indoors.
 fume|n./v.|（难闻有害的）烟，气体|Petrol fumes from cars are poisoning the atmosphere
-mist|n.|薄雾；水汽；使视线模糊的东西
+mist|n.|薄雾；水汽；使视线模糊的东西|She could hardly recognise her son through a mist of tears.
 ---
-tsunami|n.|海啸
-drought|n.|干旱；旱灾
-flooding|n.|洪水泛滥
-torrent|n.|激流；洪流
+tsunami|n.|海啸|A terrible tsunami followed the earthquake.
+drought|n.|干旱；旱灾|Many areas in Africa have suffered severe drought this year.
+flooding|n.|洪水泛滥|Since the flooding began last month, 16 people have died statewide.
+torrent|n.|激流；洪流|A torrent of water poured down the mountain.
 ---
 earthquake|n.|地震
 seismic|adj.|地震的；地震引起的

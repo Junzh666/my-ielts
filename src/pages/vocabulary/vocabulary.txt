@@ -63,18 +63,18 @@ drought|n.|干旱；旱灾|Many areas in Africa have suffered severe drought thi
 flooding|n.|洪水泛滥|Since the flooding began last month, 16 people have died statewide.
 torrent|n.|激流；洪流|A torrent of water poured down the mountain.
 ---
-earthquake|n.|地震
-seismic|adj.|地震的；地震引起的
-avalanche|n.|雪崩
+earthquake|n.|地震|Several countries in eastern Europe are counting losses caused by yersterdays's earthquake.
+seismic|adj.|地震的；地震引起的|The discovery of seismic activity suggests geological activity could provide large amounts of heat and minerals.
+avalanche|n.|雪崩|Yersterday's avalanche destroyed several trees.
 ---
-terrain|n.|地形
-landscape|n./v.|风景；地貌；对...进行景观美化
-continent|n.|大陆；洲
+terrain|n.|地形|He climbed a tree to view the surrounding terrain.
+landscape|n./v.|风景；地貌；对...进行景观美化|The trees and the mountains make the landscape very beautiful|landscaper n. 园林设计师
+continent|n.|大陆；洲|It is generally thought that columbus discovered the American continent.
 ---
-cave|n.|洞穴；山洞
-cliff|n.|悬崖；峭壁
-glacier|n.|冰川；冰河
-swamp|n.|沼泽；湿地
+cave|n.|洞穴；山洞|This cave was used by smugglers in the 18th century.
+cliff|n.|悬崖；峭壁|The narrow path leads to a wooden hut on the cliff.
+glacier|n.|冰川；冰河|The glacier dislocated the great stones.
+swamp|n.|沼泽；湿地|In the swamp, we were beset by mosquitoes.
 ---
 delta|n.|三角洲
 plain|n./adj.|平原；简朴的；明白的

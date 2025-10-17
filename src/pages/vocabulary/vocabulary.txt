@@ -71,22 +71,22 @@ terrain|n.|地形|He climbed a tree to view the surrounding terrain.
 landscape|n./v.|风景；地貌；对...进行景观美化|The trees and the mountains make the landscape very beautiful|landscaper n. 园林设计师
 continent|n.|大陆；洲|It is generally thought that columbus discovered the American continent.
 ---
-cave|n.|洞穴；山洞|This cave was used by smugglers in the 18th century.
-cliff|n.|悬崖；峭壁|The narrow path leads to a wooden hut on the cliff.
-glacier|n.|冰川；冰河|The glacier dislocated the great stones.
-swamp|n.|沼泽；湿地|In the swamp, we were beset by mosquitoes.
+cave|n.|洞穴；山洞|This cave was used by smugglers in the 18th century.| sumggler n. 走私者
+cliff|n.|悬崖；峭壁|The narrow path leads to a wooden hut on the cliff.| hut n. 小屋
+glacier|n.|冰川；冰河|The glacier dislocated the great stones.|dislocate v. 使脱臼；使错位
+swamp|n.|沼泽；湿地|In the swamp, we were beset by mosquitoes.|beset v. 困扰；围攻; mosquito n. 蚊子
 ---
-delta|n.|三角洲
-plain|n./adj.|平原；简朴的；明白的
-plateau|n.|高原
-oasis|n.|绿洲；宜人之地
+delta|n.|三角洲|The Nile Delta used to be a fertile land.|fertile adj. 肥沃的
+plain|n./adj.|平原；简朴的；明白的|Once there were 70 million buffalo roaming the Great Plains.|roam v. 漫游；徘徊; buffalo n. 水牛
+plateau|n.|高原|The atmosphere is thin on the plateau.|thin adj. 薄的；稀薄的
+oasis|n.|绿洲；宜人之地|Oasis symbolises a hope in desert areas.|symbolise v. 象征
 ---
-globe|n.|球体；地球仪
-hemisphere|n.|半球
-equator|n.|赤道
+globe|n.|球体；地球仪|There are people in almost every habitable part of this globe.|habitable adj. 适于居住的
+hemisphere|n.|半球|In the northern hemisphere, you can hardly see the Magellanic Clouds.|Magellanic Clouds 大麦哲伦云
+equator|n.|赤道|The equator is an imaginary line around the middle of the earth.|imaginary adj. 想象的；虚构的
 ---
-arctic|adj./n.|北极的；极冷的；北极地区；北极
-Antarctic|adj./n.|南极的；南极地区；南极洲
+arctic|adj./n.|北极的；极冷的；北极地区；北极|The polar bear's habitat is the icy waters of the Arctic.|habitat n. 栖息地 icy adj. 冰冷的
+Antarctic|adj./n.|南极的；南极地区；南极洲|Because of the extreme cold, the environment in the Antarctic is uniquely fragile.|fragile adj. 易碎的；脆弱的
 pole|n.|（地）极；截然相反的两极之一|English is spoken from pole to pole|the South Pole 南极
 polar|adj.|极地的；近极地的；对立的|In these polar region, the balance of nature has already been disrupted|a polar bear 北极熊；polarize v. 使两极分化
 axis|n.|轴；轴线|The earth's axis is the line between the North and South Poles

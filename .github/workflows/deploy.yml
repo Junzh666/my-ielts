@@ -13,17 +13,38 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Use Node / npm cache
+      - name: Use Node (with npm cache)
         uses: actions/setup-node@v4
         with:
           node-version: '18'
           cache: 'npm'
 
-      - name: Install dependencies (npm)
-        run: npm install
+      - name: Install pnpm
+        run: npm install -g pnpm@8.6.10
+
+      - name: Verify pnpm
+        run: pnpm --version
+
+      - name: Cache pnpm store
+        uses: actions/cache@v4
+        with:
+          path: ~/.pnpm-store
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
+
+      - name: Install dependencies (pnpm)
+        run: |
+          if [ -f pnpm-lock.yaml ]; then
+            echo "Found pnpm-lock.yaml, running pnpm install --frozen-lockfile"
+            pnpm install --frozen-lockfile
+          else
+            echo "No pnpm-lock.yaml found, running pnpm install"
+            pnpm install
+          fi
 
       - name: Build
-        run: npm run build --if-present
+        run: pnpm run build --if-present
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4

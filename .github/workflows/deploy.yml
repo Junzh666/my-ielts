@@ -19,8 +19,11 @@ jobs:
           node-version: '18'
           cache: 'pnpm'
 
-      - name: Enable Corepack (pnpm)
-        run: corepack enable && corepack prepare pnpm@8.6.10 --activate
+      - name: Install pnpm (global)
+        run: npm install -g pnpm@8.6.10
+
+      - name: Verify pnpm
+        run: pnpm --version
 
       - name: Cache pnpm store
         uses: actions/cache@v4

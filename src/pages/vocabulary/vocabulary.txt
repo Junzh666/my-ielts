@@ -302,7 +302,7 @@ synthetic|adj.|人造的；合成的|Nylon is a synthetic material; it is not fr
 petrol|n.|[英]汽油|My new car really eats up petrol.
 gas|n.|气体；[美]汽油|There are reports that some gas station run out of gas.
 gasoline|n.|[美]汽油|The price of gasoline is unstable.
-petroleum|n.|石油|Petroleum is an important natural resource|petrology n. 岩石学
+petroleum|n.|石油|Petroleum is an important natural resource.|petrology n. 岩石学
 ===
 植物研究
 +++

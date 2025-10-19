@@ -1,8 +1,8 @@
 自然地理
 +++
-atmosphere|n.|大气层；氛围|The approaching examination created a tense atmosphere on the campus
-hydrosphere|n.|水圈；大气中的水汽|All the water in the earth's surface is included in the hydrosphere
-lithosphere|n.|岩石圈|The lithosphere and the hydrosphere together form the earth's surface
+atmosphere|n.|大气层；氛围|The approaching examination created a tense atmosphere on the campus.
+hydrosphere|n.|水圈；大气中的水汽|All the water in the earth's surface is included in the hydrosphere.
+lithosphere|n.|岩石圈|The lithosphere and the hydrosphere together form the earth's surface.
 ---
 oxygen|n.|氧气|Hydrogen and Oxygen are gases.
 oxide|n.|氧化物|Oxide is a part of our daily life.
@@ -10,7 +10,7 @@ carbon dioxide|n.|二氧化碳|Soft drinks usually contain carbon dioxide.
 hydrogen|n.|氢气|Two parts hydrogen and one part oxygen, you'll get water every time.
 ---
 core|n.|中心；核心；地核|He is core of the working group.
-crust|n.|地壳；外壳|The crust on the snow was thick enough for us to walk on it
+crust|n.|地壳；外壳|The crust on the snow was thick enough for us to walk on it.
 mantle|n./v.|地幔；斗篷；披风；覆盖|Parents often use mantles for their babies to keep warm
 ---
 longitude|n.|经度|The captain determines the latitude and longitude of his ship.

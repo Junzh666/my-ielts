@@ -1,58 +1,34 @@
 name: Build and Deploy
 on:
   push:
-    branches: [ main ]
-
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
 jobs:
-  build-and-deploy:
+  test-build-deploy:
     runs-on: ubuntu-latest
-    concurrency:
-      group: deploy-my-ielts
-      cancel-in-progress: true
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v2
 
-      - name: Use Node (with pnpm cache)
-        uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
         with:
-          node-version: '18'
-          cache: 'pnpm'
+          node-version: lts/Hydrogen
 
-      - name: Enable Corepack and prepare pnpm
-        run: |
-          corepack enable
-          corepack prepare pnpm@8.6.10 --activate
+      - name: Install Dependencies
+        run: npm -g install pnpm && pnpm i
 
-      - name: Verify pnpm
-        run: pnpm --version
+      # - name: Run Tests
+      #   run: yarn test
 
-      - name: Cache pnpm store
-        uses: actions/cache@v4
-        with:
-          path: ~/.pnpm-store
-          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-pnpm-store-
+      - name: Run Build
+        run: pnpm run build
 
-      - name: Install dependencies (pnpm)
-        run: |
-          if [ -f pnpm-lock.yaml ]; then
-            echo "Found pnpm-lock.yaml, running pnpm install --frozen-lockfile"
-            pnpm install --frozen-lockfile
-          else
-            echo "No pnpm-lock.yaml found, running pnpm install"
-            pnpm install
-          fi
-
-      - name: Build
-        run: pnpm run build --if-present
-
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
           branch: gh-pages
           folder: dist
-          clean: true
-          token: ${{ secrets.GITHUB_TOKEN }}
-

@@ -274,7 +274,7 @@ spring|n.|春天；泉水|It can be quite windy there, especially in spring.|spr
 dew|n.|露水|Dew dripped from the leaves.
 ---
 pour|v.|倾泻；倒；倾盆而下|Tears poured from her eyes.
-drain|v./n.|排空；流出；耗竭|The drain the swamp and turn it into fertile land.|drainage n. 排水；排水系统
+drain|v./n.|排空；流出；耗竭|They drain the swamp and turn it into fertile land.|drainage n. 排水；排水系统
 drip|v.|滴出（液体）；滴下|Be careful, your paintbrush is dripping.
 drown|v.|淹死；浸泡|She attempted to drown herself in the river.
 ---
@@ -284,16 +284,16 @@ gush|v./n.|涌出|In a moment more, the crowd began to gush forth from the doors
 ---
 dense|adj.|密集的；稠密的|There will be dense fog in the northern part of the country tomorrow.|density n. 密度
 intensity|n.|强度；强烈|I was superised by the intensity of his anxiety.|intense adj. 强烈的
-intensive|adj.|加强的；集中的；密集的||intensive care unit ICU|Intensive care in hospitals is given to seriously ill.|intensive care unit ICU 重症监护室
+intensive|adj.|加强的；集中的；密集的|Intensive care in hospitals is given to seriously ill.|intensive care unit ICU 重症监护室
 ---
 emerge|v.|浮现；露出；暴露；摆脱出来|The sun emerged from behind the clouds.
-flash|v./n.|||flash through sb.'s mind 闪过某人脑海|The good news was flashed across the country.
+flash|v./n.|闪光，闪现|The good news was flashed across the country.|flash through sb.'s mind 闪过某人脑海
 float|v.|漂浮；飘浮|The smell of roses floated around.
 ---
 environment|n.|环境；周围状况|An increasing number of people are concerned about the pollution of the environment.
 surrounding|adj.|周围的；附近的|The polluted waste is often dumped unceremoniously,making the surrounding land infertile.
 condition|n.|条件；情况；状态|I had almost decided to accept their conditions at that time.
-situation|n.|形势；局势；处境|Due to the pool management, they finally got into a difficult financial situation.
+situation|n.|形势；局势；处境|Due to the poor management, they finally got into a difficult financial situation.
 nature|n.|大自然；本质；性质|In fact, nature is much better at recycling than we humans are.
 natural|adj.|自然地；天然的|It is natural that he should fall in love with such a beautiful girl.
 artificial|adj.|人造的|This fruit juice contains absolutely no artificial flavouring or colouring.

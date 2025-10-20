@@ -12,6 +12,8 @@
   My <span>IELTS™</span>
 </h1>
 
+本项目是从 https://github.com/hefengxian/my-ielts fork 过来的, 由于有一些个人笔记想要记录，故单独维护这个仓库，仅用于个人学习使用。
+
 <h2>在线地址 <a href="https://junzh666.github.io/my-ielts/#/">https://junzh666.github.io/my-ielts/</a></h2>
 
 <picture>
